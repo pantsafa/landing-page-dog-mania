@@ -175,6 +175,8 @@ h1 {
     cursor: pointer;
     padding: 10px 20px;
     transition: 0.3s;
+    max-width: 15%;
+    size: 0.1rem;
 }
 
 .signup-button:hover {
